@@ -6,7 +6,7 @@ BounceBall is a project to demonstrate my JavaScript & html skills. In this proj
 
 ## Installation: 
 1. Download the project to your desktop. If zipped, unzip it. 
-2. Open BounceBall_JavaScript.html file in a browser to see the bouncing of the ball. 
+2. Open index.html file in a browser to see the bouncing of the ball. 
 
 ## Usage: 
 Use this project to play with JavaScript features and to improve your html skills.
