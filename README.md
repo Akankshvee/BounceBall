@@ -1,5 +1,5 @@
 # Name: BounceBall
-<img src="BounceBall.png" width='300' />
+<img src="BounceBall.PNG" width='300' />
 
 ## Description: 
 BounceBall is a project to demonstrate my JavaScript & html skills. In this project, the ball bounces and changes direction at the boundaries. You will also notice the ball changing color when it hits a border. 
